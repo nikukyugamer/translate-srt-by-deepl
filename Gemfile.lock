@@ -1,0 +1,15 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    deepl-rb (2.5.3)
+    dotenv (2.8.1)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  deepl-rb
+  dotenv
+
+BUNDLED WITH
+   2.4.13
