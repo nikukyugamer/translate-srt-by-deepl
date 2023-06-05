@@ -31,6 +31,7 @@ class SrtFile
     subtitles
   end
 
+  # NOTE: 現状 srt 特化
   def translations_to_translation_texts(translations)
     srt_file = File.open('tmp/captions.srt')
     translated_texts = []
