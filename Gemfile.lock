@@ -2,7 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.3)
-    deepl-rb (3.7.0)
+    deepl-rb (3.9.0)
     dotenv (3.2.0)
     json (2.19.7)
     language_server-protocol (3.17.0.5)
